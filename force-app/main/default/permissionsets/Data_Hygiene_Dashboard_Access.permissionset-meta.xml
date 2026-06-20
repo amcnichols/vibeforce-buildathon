@@ -11,16 +11,6 @@
     <description>Access to the Data Hygiene Dashboard and Lead hygiene fields.</description>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Lead.Email</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Lead.FirstName</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
         <field>Lead.Hygiene_Notes__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -32,16 +22,6 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Lead.Hygiene_Status__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Lead.LastName</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Lead.Phone</field>
         <readable>true</readable>
     </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
