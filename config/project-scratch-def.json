@@ -1,13 +1,9 @@
 {
-  "orgName": "anthonymcnicholsJr company",
+  "orgName": "VibeForce Build",
   "edition": "Developer",
-  "features": ["EnableSetPasswordInApi"],
+  "features": ["SalesUser", "DevelopmentWave"],
   "settings": {
-    "lightningExperienceSettings": {
-      "enableS1DesktopEnabled": true
-    },
-    "mobileSettings": {
-      "enableS1EncryptedStoragePref2": false
-    }
+    "lightningExperienceSettings": { "enableS1DesktopEnabled": true },
+    "mobileSettings": { "enableS1EncryptedStoragePref2": false }
   }
 }
